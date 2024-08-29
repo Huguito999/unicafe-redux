@@ -30,6 +30,8 @@ describe('unicafe reducer', () => {
       good: 1,
       ok: 0,
       bad: 0
+      
     })
   })
 })
+//ee
